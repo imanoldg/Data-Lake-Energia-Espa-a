@@ -95,13 +95,6 @@ y la transformación se pueden ejecutar íntegramente en local, sin cuenta de AW
 
 Las instrucciones paso a paso están en [`docs/EJECUCION.md`](docs/EJECUCION.md).
 
-## Próximas mejoras
-
-- Ingesta automática con AWS Lambda y EventBridge.
-- Orquestación con Apache Airflow.
-- Cruzar el precio con la generación por tecnología (renovables frente a fósiles).
-- Dashboard en Metabase o QuickSight.
-
 ---
 
 Datos: [REData API de Red Eléctrica de España](https://www.ree.es/es/datos/apidatos).
