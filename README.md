@@ -1,6 +1,5 @@
 # ⚡ Data lake de precios de la electricidad en España
 
-![CI](https://github.com/imanoldg/datalake-energia-espana/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-3.5-E25A1C?logo=apachespark&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3%20·%20Glue%20·%20Athena-FF9900?logo=amazonwebservices&logoColor=white)
