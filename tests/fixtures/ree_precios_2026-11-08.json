@@ -1,0 +1,43 @@
+{
+  "data": {"type": "Precios mercado peninsular en tiempo real", "id": "mer13", "attributes": {"title": "Precios mercado peninsular en tiempo real", "last-update": "2026-11-08T20:45:00.000+01:00"}},
+  "included": [
+    {
+      "type": "PVPC (€/MWh)",
+      "id": "1001",
+      "groupId": null,
+      "attributes": {
+        "title": "PVPC (€/MWh)",
+        "description": null,
+        "color": "#ffcf09",
+        "type": null,
+        "magnitude": null,
+        "composite": false,
+        "last-update": "2026-11-08T20:45:00.000+01:00",
+        "values": [
+          {"value": 112.5, "percentage": 0.6, "datetime": "2026-11-08T00:00:00.000+01:00"},
+          {"value": 98.31, "percentage": 0.58, "datetime": "2026-11-08T01:00:00.000+01:00"},
+          {"value": 151, "percentage": 0.63, "datetime": "2026-11-08T20:00:00.000+01:00"}
+        ]
+      }
+    },
+    {
+      "type": "Precio mercado spot (€/MWh)",
+      "id": "600",
+      "groupId": null,
+      "attributes": {
+        "title": "Precio mercado spot (€/MWh)",
+        "description": null,
+        "color": "#df4a32",
+        "type": null,
+        "magnitude": null,
+        "composite": false,
+        "last-update": "2026-11-08T20:45:00.000+01:00",
+        "values": [
+          {"value": 75.0, "percentage": 0.4, "datetime": "2026-11-08T00:00:00.000+01:00"},
+          {"value": 71.2, "percentage": 0.42, "datetime": "2026-11-08T01:00:00.000+01:00"},
+          {"value": 88.4, "percentage": 0.37, "datetime": "2026-11-08T20:00:00.000+01:00"}
+        ]
+      }
+    }
+  ]
+}

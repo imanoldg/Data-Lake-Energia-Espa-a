@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Datos locales (nunca al repositorio)
+data/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Terraform: el estado puede contener datos sensibles
+infra/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log

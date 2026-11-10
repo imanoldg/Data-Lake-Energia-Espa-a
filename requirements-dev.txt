@@ -1,0 +1,7 @@
+-r requirements.txt
+pyspark==3.5.*   # misma version de Spark que Glue 5.0
+pandas>=2.2
+pyarrow>=17
+moto[s3]>=5.0
+pytest>=8.0
+ruff>=0.6
